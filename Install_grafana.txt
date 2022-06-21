@@ -41,3 +41,4 @@ https://grafana.com/grafana/dashboards?dataSource=prometheus&direction=desc&orde
 8. Uninstall Prometheus and Grafana
 helm uninstall prometheus --namespace prometheus
 helm uninstall grafana --namespace grafana
+new change
